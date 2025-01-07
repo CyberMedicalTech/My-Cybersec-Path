@@ -30,7 +30,7 @@ I'm teaching myself in my free time and documenting my journey to showcase my gr
 
 ---
 
-## 💻 ** Current Projects**
+## 💻 **Current Projects**
  -UnderConstruction👷🏾‍♂️-
 
 ---
