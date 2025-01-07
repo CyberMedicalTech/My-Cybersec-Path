@@ -21,7 +21,7 @@ I'm teaching myself in my free time and documenting my journey to showcase my gr
 - Set up VirtualBox and Kali Linux
 - Learn basic Linux commands
 - Install Wireshark and capture network traffic
--
+
 📖 Read Chapters 1 & 2 of "Cybersecurity Essentials" by Charles Brooks – Gained a foundational understanding of cybersecurity principles, including the CIA Triad (Confidentiality, Integrity, Availability) and the evolving threat landscape.
 
 📖 Read Chapter 1 of "Security+ Get Certified Get Ahead" – Focused on key security concepts, including identifying threat actors, attack vectors, and basic risk management practices.
