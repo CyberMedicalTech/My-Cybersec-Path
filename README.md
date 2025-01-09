@@ -1,11 +1,15 @@
 # 👨🏾‍💻 Welcome to My Cybersecurity Journey
 
-Hi! I'm Ari CyberMedicalTech, an Air Force veteran with a passion for continuous learning and all things tech. My career began as an aircraft mechanic, where I spent 12 years mastering technical systems and troubleshooting complex machinery. I then transitioned into biomedical technology, applying my hands-on skills to critical healthcare equipment. Now, I'm pursuing my next challenge in cybersecurity, driven by a passion for protecting systems and solving security challenges.
+Hi! I'm Ari, The CyberMedicalTech. An Air Force veteran with a passion for continuous learning and all things tech. My career began as an aircraft mechanic, where I spent 12 years mastering technical systems and troubleshooting complex machinery. I then transitioned into biomedical technology, applying my hands-on skills to critical healthcare equipment. Now, I'm pursuing my next challenge in cybersecurity, driven by a passion for protecting systems and solving security challenges.
+
+
 I'm teaching myself in my free time and documenting my journey to showcase my growth, projects, and resources. This profile will serve as a living record of my progress as I work towards becoming a cybersecurity professional.
+
+
 ---
 
 ## 📚 **Learning Roadmap** 
-##This is my self-taught path to cybersecurity. I'll update it weekly with my progress.
+This is my self-taught path to cybersecurity. I'll update it weekly with my progress.
 
 ## Skills in Progress
 
@@ -17,7 +21,7 @@ I'm teaching myself in my free time and documenting my journey to showcase my gr
 
 ---
 
-### ❌ **Week 1**
+### ❌👷🏾‍♂️ **Week 1**
 - Set up VirtualBox and Kali Linux.
   - 📄 **My Cybersecurity Lab Setup Guide**: [Click here to view the full guide](./Cybersecurity_Lab_Guide.md)
   
