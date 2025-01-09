@@ -7,7 +7,7 @@ This is a record of how I set up my personal cybersecurity lab on my new laptop 
 - ✅ Notes I took along the way
 
 
-**🚀 Step 1: Installing VirtualBox**  
+### **🚀 Step 1: Installing VirtualBox**  
 The first step I took was installing VirtualBox, which I needed to create virtual machines (VMs) for running Linux distros and security tools.
 
 ### **What I Did:**  
@@ -15,35 +15,29 @@ The first step I took was installing VirtualBox, which I needed to create virtua
 - I installed it on my laptop.  
 - After the installation, I opened VirtualBox to start creating virtual machines.
 
-GitHub Update:
-
-I documented this step in my README with the following update:
-
-"Installed VirtualBox to create virtual machines for running Linux and other tools."
-
-🐧 Step 2: Downloading and Installing Kali Linux
+### **🐧 Step 2: Downloading and Installing Kali Linux**
 
 Next, I set up Kali Linux, which is a popular Linux distribution used for penetration testing and cybersecurity.
 
-What I Did:
+### **What I Did:**
 
-I downloaded the Kali Linux ISO from the official site: https://www.kali.org/downloads/.
+- I downloaded the Kali Linux ISO from the official site: https://www.kali.org/downloads/.
 
-In VirtualBox, I clicked New to create a new VM.
+- In VirtualBox, I clicked New to create a new VM.
 
-I used the following settings:
+- I used the following settings:
 
-Name: Kali Linux
+    - Name: Kali Linux
 
-Type: Linux
+    - Type: Linux
 
-Version: Debian (64-bit)
+    - Version: Debian (64-bit)
 
-I allocated at least 2 GB of RAM and 20 GB of storage.
+- I allocated at least 2 GB of RAM and 20 GB of storage.
 
-I attached the Kali Linux ISO to the VM and started the installation.
+- I attached the Kali Linux ISO to the VM and started the installation.
 
-I followed the on-screen instructions to complete the installation.
+- I followed the on-screen instructions to complete the installation.
 
 Commands I Ran (Inside Kali):
 
@@ -52,27 +46,23 @@ sudo apt upgrade
 
 GitHub Update:
 
-I updated my README with this:
+Notes:
 
-"Installed Kali Linux in VirtualBox to begin practicing penetration testing."
-
-Notes I Took:
-
-Kali Linux is used for penetration testing and ethical hacking.
+Kali Linux is a virtual work space that can be used for penetration testing and ethical hacking.
 
 Virtualization is important because it allows me to run multiple operating systems on one machine.
 
-The commands sudo apt update and sudo apt upgrade are used to update the system.
+The commands `sudo apt update` and `sudo apt upgrade` are used to update the system.
 
-🛠️ Step 3: Installing Wireshark
+### **🛠️ Step 3: Installing Wireshark**
 
 After setting up Kali Linux, I installed Wireshark, a tool used to capture and analyze network traffic.
 
-What I Did:
+### **What I Did:**
 
-In Kali Linux, I opened the terminal.
+- In Kali Linux, I opened the terminal.
 
-I ran the following command to install Wireshark:
+- I ran the following command to install Wireshark:
 
 sudo apt install wireshark
 
