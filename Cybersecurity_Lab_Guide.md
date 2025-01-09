@@ -1,26 +1,19 @@
-🖥️ My Cybersecurity Lab Setup Guide
+## 🖥️ My Cybersecurity Lab Setup Guide ##
 
 This is a record of how I set up my personal cybersecurity lab on my new laptop to help me practice hands-on skills and build my GitHub portfolio. I’m documenting each step I take, including:
+- ✅ What I installed
+- ✅ Commands I ran
+- ✅ What I documented in my GitHub
+- ✅ Notes I took along the way
 
-✅ What I installed
 
-✅ Commands I ran
-
-✅ What I documented in my GitHub
-
-✅ Notes I took along the way
-
-🚀 Step 1: Installing VirtualBox
-
+**🚀 Step 1: Installing VirtualBox**  
 The first step I took was installing VirtualBox, which I needed to create virtual machines (VMs) for running Linux distros and security tools.
 
-What I Did:
-
-I downloaded VirtualBox from the official site: https://www.virtualbox.org.
-
-I installed it on my laptop.
-
-After the installation, I opened VirtualBox to start creating virtual machines.
+### **What I Did:**  
+- I downloaded VirtualBox from the official site: [https://www.virtualbox.org](https://www.virtualbox.org).  
+- I installed it on my laptop.  
+- After the installation, I opened VirtualBox to start creating virtual machines.
 
 GitHub Update:
 
