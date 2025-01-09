@@ -19,7 +19,7 @@ I'm teaching myself in my free time and documenting my journey to showcase my gr
 
 ### ❌ **Week 1**
 - Set up VirtualBox and Kali Linux.
-  📄 **My Cybersecurity Lab Setup Guide**: [Click here to view the full guide](./Cybersecurity_Lab_Guide.md)
+  - 📄 **My Cybersecurity Lab Setup Guide**: [Click here to view the full guide](./Cybersecurity_Lab_Guide.md)
   
 - Learn basic Linux commands
 - Install Wireshark and capture network traffic
