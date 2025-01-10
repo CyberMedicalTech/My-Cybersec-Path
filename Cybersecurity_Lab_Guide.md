@@ -1,4 +1,4 @@
-## **🖥️ My Cybersecurity Lab Setup Guide**
+### **🖥️ My Cybersecurity Lab Setup Guide**
 
 This is a record of how I set up my personal cybersecurity lab on my new laptop to help me practice hands-on skills and build my GitHub portfolio. I’m documenting each step I take, including:
 - ✅ What I installed
