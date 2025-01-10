@@ -25,7 +25,7 @@ Next, I set up Kali Linux, which is a popular Linux distribution used for penetr
 
 - In VirtualBox, I clicked New to create a new VM.
 
-- I used the following settings:
+- Used the following settings:
 
     - Name: Kali Linux
 
@@ -33,11 +33,11 @@ Next, I set up Kali Linux, which is a popular Linux distribution used for penetr
 
     - Version: Debian (64-bit)
 
-- I allocated at least 2 GB of RAM and 20 GB of storage.
+- Allocated at least 2 GB of RAM and 20 GB of storage.
 
-- I attached the Kali Linux ISO to the VM and started the installation.
+- Attached the Kali Linux ISO to the VM and started the installation.
 
-- I followed the on-screen instructions to complete the installation.
+- Followed the on-screen instructions to complete the installation.
 
 Commands I Ran (Inside Kali):
 
@@ -64,25 +64,19 @@ After setting up Kali Linux, I installed Wireshark, a tool used to capture and a
 
 - I ran the following command to install Wireshark:
 
-sudo apt install wireshark
+`sudo apt install wireshark`
 
-After the installation, I launched Wireshark and started a capture session to analyze network packets.
+- After the installation, I launched Wireshark and started a capture session to analyze network packets.
 
-GitHub Update:
+Notes:
 
-I added this to my README:
+- Wireshark is a network protocol analyzer that allows me to inspect network traffic in real-time.
 
-"Installed Wireshark and captured network traffic to analyze packets."
+- I learned how to start a capture session and review packet data.
 
-Notes I Took:
+- Packet analysis is useful for identifying suspicious activity in a network.
 
-Wireshark is a network protocol analyzer that allows me to inspect network traffic in real-time.
-
-I learned how to start a capture session and review packet data.
-
-Packet analysis is useful for identifying suspicious activity in a network.
-
-🔐 Step 4: Installing Wazuh (SIEM Tool)
+### **🔐 Step 4: Installing Wazuh (SIEM Tool)**
 
 Next, I set up Wazuh, an open-source Security Information and Event Management (SIEM) tool to monitor logs and detect threats.
 
