@@ -86,19 +86,15 @@ Notes:
 
 Next, I set up Wazuh, an open-source Security Information and Event Management (SIEM) tool to monitor logs and detect threats.
 
-What I Did:
+### **What I Did:**
 
-I followed the official Wazuh installation guide: https://documentation.wazuh.com/.
+- I followed the official Wazuh installation guide: https://documentation.wazuh.com/.
 
-I configured Wazuh to monitor logs from my Kali Linux VM.
-
-GitHub Update:
-
-I documented this step in my README:
+- I configured Wazuh to monitor logs from my Kali Linux VM.
 
 "Installed Wazuh SIEM tool to monitor logs and detect threats in my lab environment."
 
-Notes I Took:
+### **Notes:**
 
 SIEM tools are essential for log management and threat detection.
 
