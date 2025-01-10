@@ -54,6 +54,11 @@ Virtualization is important because it allows me to run multiple operating syste
 
 The commands `sudo apt update` and `sudo apt upgrade` are used to update the system.
 
+### 🚀 Debian VM Setup
+- Launched the Debian VM for the first time.
+- Configured the network, users, and partitions.
+- Installed and updated the system.
+
 ### **🛠️ Step 3: Installing Wireshark**
 
 After setting up Kali Linux, I installed Wireshark, a tool used to capture and analyze network traffic.
