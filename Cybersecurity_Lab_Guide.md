@@ -55,6 +55,7 @@ Virtualization is important because it allows me to run multiple operating syste
 The commands `sudo apt update` and `sudo apt upgrade` are used to update the system.
 
 ### 🚀 Debian VM Setup
+[Click here to view the full guide](./Dabian_Setup.md)
 - Launched the Debian VM for the first time.
 - Configured the network, users, and partitions.
 - Installed and updated the system.
