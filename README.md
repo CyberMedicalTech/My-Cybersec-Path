@@ -2,16 +2,15 @@
 
 Hi! I'm Ari, The CyberMedicalTech. An Air Force veteran with a passion for continuous learning and all things tech. My career began as an aircraft mechanic, where I spent 12 years mastering technical systems and troubleshooting complex machinery. I then transitioned into biomedical technology, applying my hands-on skills to critical healthcare equipment. Now, I'm pursuing my next challenge in cybersecurity, driven by a passion for protecting systems and solving security challenges.
 
-
 I'm teaching myself in my free time and documenting my journey to showcase my growth, projects, and resources. This profile will serve as a living record of my progress as I work towards becoming a cybersecurity professional.
-
 
 ---
 
-## 📚 **Learning Roadmap** 
+### **📚Learning Roadmap** 
+
 This is my self-taught path to cybersecurity. I'll update it weekly with my progress.
 
-## Skills in Progress
+### **Skills in Progress**
 
 - Networking Basics (TCP/IP, DNS, VPNs, Firewalls)
 
@@ -21,11 +20,14 @@ This is my self-taught path to cybersecurity. I'll update it weekly with my prog
 
 ---
 
-### ❌👷🏾‍♂️ **Week 1**
+### **❌👷🏾‍♂️ Week 1**
+
 - Set up VirtualBox and Kali Linux.
+  
   - 📄 **My Cybersecurity Lab Setup Guide**: [Click here to view the full guide](./Cybersecurity_Lab_Guide.md)
   
 - Learn basic Linux commands
+  
 - Install Wireshark and capture network traffic
 
 📖 Read Chapters 1 & 2 of "Cybersecurity Essentials" by Charles Brooks – Gained a foundational understanding of cybersecurity principles, including the CIA Triad (Confidentiality, Integrity, Availability) and the evolving threat landscape.
@@ -36,20 +38,28 @@ This is my self-taught path to cybersecurity. I'll update it weekly with my prog
 
 ---
 
-## 💻 **Current Projects**
+### **💻 Current Projects**
+
  -UnderConstruction👷🏾‍♂️-
 
 ---
 
-## 🔐 **Tools I'm Learning**
+### **🔐 Tools I'm Learning**
+
 - Virtual Box
+  
 - Kali Linux
+  
 - Wireshark
 
 ---
 
-## 🎯 **Goals**
+### **🎯 Goals**
+
 - Build a Comprehinsive cybersecurity portfolio
+  
 - Secure an entry-level cybersecurity job
+  
 - Continue to learn and grow in the field
+  
 - TO THE MOON 🚀
