@@ -1,4 +1,4 @@
-## ✅ Step 1: Download VirtualBox ##
+### **✅ Step 1: Download VirtualBox**
 1. Go to the official VirtualBox website:
 👉 https://www.virtualbox.org
 
@@ -6,7 +6,9 @@
 
 3. Select **"Windows hosts"** to download the Windows installer.
 
-## ✅ Step 2: Install VirtualBox ##
+---
+
+### **✅ Step 2: Install VirtualBox**
 1. Once the VirtualBox installer is downloaded, open the file (e.g., `VirtualBox-x.x.x-xxxx-Win.exe`
 
 2. The Setup Wizard will open. Click Next to proceed.
@@ -23,13 +25,17 @@
 
 7. Once the installation completes, click **Finish.**
 
-## ✅ Step 3: Download a Virtual Machine (VM) ISO ##
+---
+
+### **✅ Step 3: Download a Virtual Machine (VM) ISO**
 You’ll need an ISO file to install a virtual machine. For cybersecurity, I recommend starting with Kali Linux.
 
 👉 Download Kali Linux from the official site:
 https://www.kali.org/downloads/
 
-## ✅ Step 4: Create a New Virtual Machine in VirtualBox ##
+---
+
+### **✅ Step 4: Create a New Virtual Machine in VirtualBox**
 1. Open **VirtualBox.**
 
 2. Click the **New** button to create a new VM.
@@ -53,7 +59,9 @@ https://www.kali.org/downloads/
 
 9. Set the **virtual hard disk size** to at least **20 ** and click **Create.**
 
-## ✅ Step 5: Attach the Kali Linux ISO ##
+---
+
+### **✅ Step 5: Attach the Kali Linux ISO**
 1. Select your newly created **Kali Linux VM** in VirtualBox.
 
 2. Click **Settings > Storage.**
@@ -66,7 +74,9 @@ https://www.kali.org/downloads/
 
 6. Click **OK.**
 
-## ✅ Step 6: Start the Virtual Machine ##
+---
+
+### **✅ Step 6: Start the Virtual Machine**
 1. Select your **Kali Linux VM** in VirtualBox.
 
 2. Click **Start.**
