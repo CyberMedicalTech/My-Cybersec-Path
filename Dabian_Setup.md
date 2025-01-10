@@ -75,25 +75,29 @@ Note: Make sure you remember this password!
 
 ---
 
-✅ Step 8: Complete the Installation
-Once the installation is complete, you’ll be prompted to reboot the system.
-After the VM reboots, log in with the username and password you created earlier.
-💻 Next Steps After Setup
+### **✅ Step 8: Complete the Installation**
+
+1. Once the installation is complete, you’ll be prompted to reboot the system.
+
+2. After the VM reboots, log in with the username and password you created earlier.
+
+---
+
+### **💻 Next Steps After Setup**
 Once you're inside your VM:
 
-Update your system:
+1. Update your system:
 
-bash
-Copy code
-sudo apt update
-sudo apt upgrade
-Install additional tools if needed, such as:
+`sudo apt update`
 
-Git:
-bash
-Copy code
-sudo apt install git
-Python:
-bash
-Copy code
-sudo apt install python3
+`sudo apt upgrade`
+
+2. Install additional tools if needed, such as:
+
+  - Git:
+    
+`sudo apt install git`
+
+  - Python
+    
+`sudo apt install python3`
