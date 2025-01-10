@@ -44,10 +44,9 @@ Next, I set up Kali Linux, which is a popular Linux distribution used for penetr
 
 Commands I Ran (Inside Kali):
 
-sudo apt update
-sudo apt upgrade
+`sudo apt update`
 
-GitHub Update:
+`sudo apt upgrade`
 
 Notes:
 
