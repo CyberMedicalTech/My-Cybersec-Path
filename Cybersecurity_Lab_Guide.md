@@ -6,6 +6,7 @@ This is a record of how I set up my personal cybersecurity lab on my new laptop 
 - ✅ What I documented in my GitHub
 - ✅ Notes I took along the way
 
+---
 
 ### **🚀 Step 1: Installing VirtualBox**  
 The first step I took was installing VirtualBox, which I needed to create virtual machines (VMs) for running Linux distros and security tools.
@@ -14,6 +15,8 @@ The first step I took was installing VirtualBox, which I needed to create virtua
 - I downloaded VirtualBox from the official site: [https://www.virtualbox.org](https://www.virtualbox.org).  
 - I installed it on my laptop.  
 - After the installation, I opened VirtualBox to start creating virtual machines.
+
+---
 
 ### **🐧 Step 2: Downloading and Installing Kali Linux**
 
@@ -60,6 +63,8 @@ The commands `sudo apt update` and `sudo apt upgrade` are used to update the sys
 - Configured the network, users, and partitions.
 - Installed and updated the system.
 
+---
+
 ### **🛠️ Step 3: Installing Wireshark**
 
 After setting up Kali Linux, I installed Wireshark, a tool used to capture and analyze network traffic.
@@ -82,6 +87,8 @@ Notes:
 
 - Packet analysis is useful for identifying suspicious activity in a network.
 
+---
+
 ### **🔐 Step 4: Installing Wazuh (SIEM Tool)**
 
 Next, I set up Wazuh, an open-source Security Information and Event Management (SIEM) tool to monitor logs and detect threats.
@@ -92,55 +99,48 @@ Next, I set up Wazuh, an open-source Security Information and Event Management (
 
 - I configured Wazuh to monitor logs from my Kali Linux VM.
 
-"Installed Wazuh SIEM tool to monitor logs and detect threats in my lab environment."
-
 ### **Notes:**
 
-SIEM tools are essential for log management and threat detection.
+- SIEM tools are essential for log management and threat detection.
 
-Wazuh provides real-time monitoring and alerts for potential security issues.
+- Wazuh provides real-time monitoring and alerts for potential security issues.
 
-I learned how to set up a SIEM tool and configure it to monitor logs from a virtual machine.
+- I learned how to set up a SIEM tool and configure it to monitor logs from a virtual machine.
 
-🐍 Step 5: Installing Python
+---
+
+### **🐍 Step 5: Installing Python**
 
 Since Python is widely used in cybersecurity for scripting and automation, I installed it on my Kali Linux VM.
 
-What I Did:
+### **What I Did:**
 
-I opened the terminal in Kali Linux.
+- I opened the terminal in Kali Linux.
 
-I checked if Python was already installed:
+- I checked if Python was already installed:
 
-python3 --version
+`python3 --version`
 
-Since it wasn’t installed, I ran the following command to install Python:
+`sudo apt install python3`
 
-sudo apt install python3
+- I also installed pip (Python package manager):
 
-I also installed pip (Python package manager):
+`sudo apt install python3-pip`
 
-sudo apt install python3-pip
+### **Notes:**
 
-GitHub Update:
+- Python is great for automating repetitive tasks in cybersecurity.
 
-I added this update to my README:
+- Some useful Python libraries for cybersecurity include `scapy`, `requests`, and `os`.
 
-"Installed Python and pip to start automating tasks in cybersecurity."
+- I wrote a basic Python script to automate log analysis.
 
-Notes I Took:
+---
 
-Python is great for automating repetitive tasks in cybersecurity.
-
-Some useful Python libraries for cybersecurity include scapy, requests, and os.
-
-I wrote a basic Python script to automate log analysis.
-
-📋 Step 6: Documenting My Journey on GitHub
+### **📋 Step 6: Documenting My Journey on GitHub**
 
 Throughout this process, I’ve been documenting my progress in my GitHub repository to keep track of what I’m learning and to showcase my journey to potential employers.
 
-What I’m Updating in My README:
 
 Here’s how I’m structuring my README updates:
 
